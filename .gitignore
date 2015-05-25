@@ -1,0 +1,14 @@
+build
+*.exe
+*.obj
+*.sdf
+*.db
+*.o
+*.gpr
+*.TMP
+*.class
+bin
+obj
+Release
+Debug
+ipch
